@@ -23,6 +23,6 @@ Introduction to machine learning with `TensorFlow` and `TFLite`, building ML mod
 
 
 ### Hackathon Days
-You will work during prior and during the hackathon on a project that will fuse between the IoT and ML parts.
+You will work (prior to and) during the hackathon on a project that will fuse between the IoT and ML parts.
 This year's project will be the implementation of a system for exam monitoring.
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/institut-galilee/2022-ml-iot-project)
